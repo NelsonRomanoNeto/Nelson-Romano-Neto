@@ -11,7 +11,7 @@ import br.sceweb.model.Empresa;
 import br.sceweb.model.EmpresaDAO;
 
 /*
- * verifica o comportamento do sistema no cadastro
+ * verifica o comportamento do sistema no cadastro de empresa
  */
 
 public class UC01CadastrarEmpresa {
